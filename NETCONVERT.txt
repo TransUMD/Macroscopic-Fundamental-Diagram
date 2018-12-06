@@ -1,0 +1,4 @@
+cd /d D:\PhD\Projects\ENCE672 MFD\GridNetwork - MixedFlow
+
+netconvert --node-files=MFDGrid.nod.xml --edge-files=MFDGrid.edg.xml  --output-file=MFDGrid.net.xml
+

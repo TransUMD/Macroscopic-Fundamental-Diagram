@@ -1,0 +1,4 @@
+<additionals>
+	<edgeData id="EdgeData" file="data\Edge\Edge.xml" freq="300.00"/>
+	<laneData id="LaneData" file="data\Lane\Lane.xml" freq="300.00"/>
+</additionals>
